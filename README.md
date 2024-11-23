@@ -7,7 +7,11 @@ I find it immensely gratifying to learn about the science of behavior analysis (
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
 
-![Snake animation](https://raw.githubusercontent.com/pẃiez/ṕwiez/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pẃiez/ṕwiez/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pẃiez/ṕwiez/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <!---
 pwiez/pwiez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
