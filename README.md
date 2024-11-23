@@ -2,7 +2,7 @@
     <h3>
         Hi there, how are you doing? 👋🏻 <br> I'm Pedro, from Brazil! 🇧🇷
     </h3>
-    I'm passionate about studying coding and design. I'm focusing on learning Python, Ruby and HTML + CSS.
+    I'm passionate about learning and the art of (self-)development. Currently, I'm focusing on learning Python, Ruby and HTML + CSS.
     <br>
     <br>
     I'm studying Systems Analysis and Development at PUCPR, one of Brazil's best universities. 
