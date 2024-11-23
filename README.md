@@ -10,15 +10,19 @@
   <a href="https://dev.to/pwiez" target="_blank">
         <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank">
     </a>
+
    <a href="https://profile.edx.org/u/pwiez" target="_blank">
         <img src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white&logoColor=white" target="_blank">
     </a>
+    
    <a href="https://exercism.org/profiles/pwiez" target="_blank">
         <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" target="_blank">
     </a>
+    
   <a href="https://www.linkedin.com/in/pwiez/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
+    
 <a href="https://www.researchgate.net/profile/Pedro-Wiezel" target="_blank">
         <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" target="_blank">
     </a>
