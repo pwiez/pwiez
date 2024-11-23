@@ -12,6 +12,7 @@
     <br>
     Some other places you can find me at:
     <br>
+    <br>
     <a href="https://dev.to/pwiez" target="_blank">
         <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
     </a>
@@ -31,6 +32,7 @@
     <br>
     ////////  🖥️ 💻  ////////
     <br>
+    <br>
     <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
     <br>
@@ -38,8 +40,8 @@
 </div>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pwiez&show_icons=true&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwiez&layout=compact&langs_count=7"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pwiez&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&count_private=true&text_color=3498db">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwiez&&hide_border=true&layout=compact&langs_count=7&bg_color=00000000"/>
 </div>
 
 <br>
