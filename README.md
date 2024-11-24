@@ -15,7 +15,7 @@
     Some other places you can find me at:
     <br>
     <br>
-    <a href="https://dev.to/pwiez" target="_blank">
+    <a href="https://codepen.io/pwiez" target="_blank">
         <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
     </a>
     <a href="https://dev.to/pwiez" target="_blank">
