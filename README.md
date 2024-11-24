@@ -15,6 +15,9 @@
     Some other places you can find me at:
     <br>
     <br>
+    <a href="https://www.codecademy.com/profiles/pwiez" target="_blank">
+        <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347">
+    </a>
     <a href="https://codepen.io/pwiez" target="_blank">
         <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
     </a>
