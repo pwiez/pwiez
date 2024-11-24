@@ -12,7 +12,7 @@
     I also have a degree in Psychology from the Federal University of Paraná (UFPR). 
     <br>
     <br>
-    Some other places you can find me at:
+    You can also find me at:
     <br>
     <br>
     <a href="https://www.codecademy.com/profiles/pwiez" target="_blank"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"></a>
