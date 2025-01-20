@@ -41,7 +41,7 @@
 <br>
 
 <h4 align="center">
-    A snake eating the contributions I made so far this year...
+    A snake eating the contributions I made in the last 365 days...
     <i>
         (credits to <a href="https://github.com/Platane/snk" target="_blank">this repo</a>)
     </i>
