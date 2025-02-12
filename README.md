@@ -1,6 +1,6 @@
 <div align="center">
     <h3>
-        Hi there, how are you doing? 👋🏻 <br> I'm Pedro, from Brazil! 🇧🇷
+        Hi, how's it going? 👋🏻 <br> I'm Pedro, from Brazil! 🇧🇷
     </h3>
     I'm passionate about learning and the art of (self-)development.
     <br>
