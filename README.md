@@ -2,15 +2,9 @@
     <h3>
         Hi, how's it going? 👋🏻 <br> I'm Pedro, from Brazil! 🇧🇷
     </h3>
-    I'm passionate about learning and the art of (self-)development.
-    <br>
-    Currently, I'm focusing on learning Python, Ruby and HTML + CSS.
-    <br>
-    <br>
-    I'm studying Systems Analysis and Development at PUCPR, one of Brazil's best universities. 
-    <br>
-    I also have a degree in Psychology from the Federal University of Paraná (UFPR). 
-    <br>
+    <h4>
+        Scholarship student @ Apple Developer Academy PUCPR <br> Bachelor's in Psychology @ UFPR
+    </h4>
     <br>
     You can also find me at:
     <br>
