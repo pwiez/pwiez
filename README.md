@@ -2,7 +2,7 @@
     <h3>
         Hi, how's it going? 👋🏻 <br> I'm Pedro, from Brazil! 🇧🇷
     </h3>
-        Scholarship student @ <strong>Apple Developer Academy PUCPR</strong> 🍎 <br> Systems Analysis and Development student @ <strong>PUCPR</strong> 💻 <br> Bachelor's in Psychology @ <strong>UFPR</strong> 💭
+        Scholarship student @ <strong>Apple Developer Academy PUCPR</strong> 🍎 <br> Systems Analysis and Development student @ <strong>PUCPR</strong> 💻 <br> Bachelor of Psychology from <strong>UFPR</strong> 🏛️
     <br>
     <br>
     You can also find me at:
