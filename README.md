@@ -1,6 +1,6 @@
 <div align="center">
     <h3>
-        Hi there!<br> I'm Pedro, from Brazil! 🇧🇷
+        Hi there! <br> I'm Pedro, from Brazil! 🇧🇷
     </h3>
         Scholarship student @ <strong>Apple Developer Academy PUCPR</strong> 🍎 <br> Systems Analysis and Development student @ <strong>PUCPR</strong> 💻 <br> Bachelor of Psychology @ <strong>UFPR</strong> 🏛️
     <br>
