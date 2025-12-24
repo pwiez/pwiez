@@ -27,7 +27,7 @@
 <br>
 
 <h4 align="center">
-    A snake eating my commits this year...
+    A snake eating my work this year...
     <i>
         (credits to <a href="https://github.com/Platane/snk" target="_blank">this repo</a>)
     </i>
