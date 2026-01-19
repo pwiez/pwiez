@@ -8,7 +8,6 @@
     You can also find me at:
     <br>
     <br>
-    <a href="https://www.codecademy.com/profiles/pwiez" target="_blank"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"></a>
     <a href="https://exercism.org/profiles/pwiez" target="_blank"><img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white"></a>
     <br>
     <a href="https://www.linkedin.com/in/pwiez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
