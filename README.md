@@ -21,8 +21,6 @@ Day to day it's Swift and SwiftUI, some Python, and a lot of the terminal:
 
 **Elsewhere:** [pedrowiezel.com](https://pedrowiezel.com) · [LinkedIn](https://www.linkedin.com/in/pwiez/) · [Exercism](https://exercism.org/profiles/pwiez) · [ResearchGate](https://www.researchgate.net/profile/Pedro-Wiezel) <sub>(that last one's from the psychology days)</sub>
 
-<br>
-
 <div align="center">
 
 <picture>
