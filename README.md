@@ -26,12 +26,10 @@ Day to day it's Swift and SwiftUI, some Python, and a lot of the terminal:
 <div align="center">
 
 <picture>
-  <source srcset="https://sakura-garden.vercel.app/api/svg?username=pwiez&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://sakura-garden.vercel.app/api/svg?username=pwiez&theme=light" media="(prefers-color-scheme: light)" />
-  <img src="https://sakura-garden.vercel.app/api/svg?username=pwiez&theme=light" width="1000" alt="My contribution garden" />
+  <source srcset="https://raw.githubusercontent.com/pwiez/pwiez/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://raw.githubusercontent.com/pwiez/pwiez/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)" />
+  <img src="https://raw.githubusercontent.com/pwiez/pwiez/output/github-contribution-grid-snake.svg" alt="A snake eating my contribution graph" />
 </picture>
-
-<sub>The garden grows as I commit — credit to <a href="https://github.com/a104437ana/sakura-garden">sakura-garden</a>.</sub>
 
 </div>
 
