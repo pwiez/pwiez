@@ -2,7 +2,7 @@
 
 I'm a developer and psychologist from Curitiba, Brazil 🇧🇷. The two overlap more than you'd expect — both are really just about how people behave. I'm at the **Apple Developer Academy** (PUCPR) now, writing mostly Swift, and just started an MBA in Digital Marketing, Technology & AI.
 
-I won the **[Swift Student Challenge](https://developer.apple.com/swift-student-challenge/)** this year (2026) 🏆, which I'm pretty proud of.
+I won the **[Swift Student Challenge 2026](https://developer.apple.com/swift-student-challenge/)** 🏆, which I'm pretty proud of.
 
 Day to day it's Swift and SwiftUI, some Python, and a lot of the terminal:
 
