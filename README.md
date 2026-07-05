@@ -19,7 +19,7 @@ Day to day it's Swift and SwiftUI, some Python, and a lot of the terminal:
   you're proud of, something you just figured out. One specific sentence beats any badge.
 -->
 
-**Elsewhere:** [pedrowiezel.com](https://pedrowiezel.com) · [LinkedIn](https://www.linkedin.com/in/pwiez/) · [Exercism](https://exercism.org/profiles/pwiez) · [ResearchGate](https://www.researchgate.net/profile/Pedro-Wiezel) <sub>(that last one's from the psychology days)</sub>
+**Elsewhere:** [pedrowiezel.com](https://pedrowiezel.com) · [LinkedIn](https://www.linkedin.com/in/pwiez/) · [Exercism](https://exercism.org/profiles/pwiez) · [ResearchGate](https://www.researchgate.net/profile/Pedro-Wiezel)
 
 <div align="center">
 
