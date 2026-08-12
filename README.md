@@ -1,10 +1,8 @@
 # Hi, I'm Pedro 👋
 
-I'm a developer and psychologist from Curitiba, Brazil 🇧🇷. The two overlap more than you'd expect — both are really just about how people behave. I'm at the **Apple Developer Academy** (PUCPR) now, writing mostly Swift, and just started an MBA in Digital Marketing, Technology & AI.
+I'm a developer and psychologist from Curitiba, Brazil 🇧🇷. Turns out both are about people, in the end! I'm at the **Apple Developer Academy** (PUCPR) now, writing Swift, and I'm working towards getting my MBA in Digital Marketing, Technology & AI.
 
 I won the **[Swift Student Challenge 2026](https://developer.apple.com/swift-student-challenge/)** 🏆, which I'm pretty proud of.
-
-Day to day it's Swift and SwiftUI, some Python, and a lot of the terminal:
 
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white">
