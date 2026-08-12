@@ -1,6 +1,6 @@
 # Hi, I'm Pedro 👋
 
-I'm a developer and psychologist from Curitiba, Brazil 🇧🇷. Turns out both are about people, in the end! I'm at the **Apple Developer Academy** (PUCPR) now, writing Swift, and I'm working towards getting my MBA in Digital Marketing, Technology & AI.
+I'm a developer and psychologist from Curitiba, Brazil 🇧🇷. Turns out both are about people in the end! I'm at the **Apple Developer Academy** (PUCPR) now, writing Swift, and I'm working towards getting my MBA in Digital Marketing, Technology & AI.
 
 I won the **[Swift Student Challenge 2026](https://developer.apple.com/swift-student-challenge/)** 🏆, which I'm pretty proud of.
 
